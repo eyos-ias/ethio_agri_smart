@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import './first.dart';
 import './firsr_screen.dart';
 import './onepage.dart';
-import './navigation_drawer.dart';
+import 'widgets/navigation_drawer.dart';
 
 //eyos wrote this comment
 void main() => runApp(MaterialApp(
