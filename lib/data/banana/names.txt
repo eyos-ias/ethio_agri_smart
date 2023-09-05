@@ -1,3 +1,0 @@
-NAMES:
-1,Scientific/Botanical name : Musa acuminata
-2,Common name: Apple of paradise

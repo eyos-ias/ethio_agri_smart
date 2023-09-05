@@ -1,3 +1,0 @@
-NAMES:
-1,Scientific/Botanical name : Malus sylvestris 
-2,Common name: Apple

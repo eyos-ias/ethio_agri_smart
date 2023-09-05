@@ -44,13 +44,15 @@ dependencies:
   cupertino_icons: ^1.0.2
   image_picker: ^1.0.2
   flutter_markdown: ^0.6.17+2
+  hexcolor: ^3.0.1
+  line_icons: ^2.0.3
  
  #path_provider: ^2.1.0
  # image_picker: ^1.0.2
 flutter_native_splash:
   android: true
   color: "#042D2D"
-  image: "images/splashscreen/splashscreen.png"
+  image: "images/splashscreen.png"
 
 dev_dependencies:
   flutter_test:
